@@ -9,5 +9,5 @@ I poorly tested it, but, seems to work correctly.
 Hardcoded info (RPC).
 
 # Caution / Note
-Caution/Note: I burned my PS3 with that miner !
+I burned my PS3 with that miner !
       So, you must take care about how long you test it.
